@@ -9,12 +9,11 @@ serie t
 --especial 1
 -serie 3 
 --sub serie 3
-
 */
 
 $servername = "localhost";
 $username = "root";
-$password = "311001";
+$password = "clave";
 $db = "test"; 
 // Creando conecion
 $conn = mysqli_connect($servername, $username, $password);
